@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Anam 👋
 
-<!--
-**Anam1111111/Anam1111111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Automation Engineer → AI Backend Engineer
 
-Here are some ideas to get you started:
+I'm an Automation Engineer with experience in test automation, API testing, cloud testing, and CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently expanding my skills into Backend and AI Engineering, with a focus on building practical software using Python, AWS, FastAPI, and Generative AI.
+
+## Technologies I'm Working With
+
+- **Languages:** Python, Java
+- **Backend:** FastAPI, REST APIs
+- **Cloud:** AWS
+- **AI:** Generative AI, LLMs, RAG
+- **Testing:** API Testing, UI Automation, Database Testing
+- **DevOps:** Git, GitHub Actions, Docker
+
+##  Current Focus
+
+Building real-world backend and AI applications while strengthening my software engineering and cloud fundamentals.
+
+##  What I'm Learning
+
+- Backend development with Python
+- AWS cloud services
+- LLM applications
+- Retrieval-Augmented Generation (RAG)
+- AI backend architecture
+- API design and testing
+
+## 🤝 Connect With Me
+
+- 
