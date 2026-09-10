@@ -28,6 +28,4 @@ Building real-world backend and AI applications while strengthening my software 
 - AI backend architecture
 - API design and testing
 
-## 🤝 Connect With Me
 
-- 
